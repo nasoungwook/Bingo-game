@@ -54,4 +54,4 @@ C++ Bingo game
   - 컴퓨터 또는 사용자가 checkBingo가 1이면 빙고를 외친다.
   - 승패가 날 때까지 무한반복 한다.
   
-  [01]!(http://blogfiles.naver.net/MjAxNzAxMTlfMTc4/MDAxNDg0ODExMjYwMjM1.YMlNQtjv1pOEZo6jt0l_ZR52A2q_iOeGYo6laFamO3Mg.r2hhKOgzeVAEDZb1lkEzAGX4XdcKXxwCELgfFQM0vN0g.PNG.wsn026/20170119_163342.png)
+  ![01](http://blogfiles.naver.net/MjAxNzAxMTlfMTc4/MDAxNDg0ODExMjYwMjM1.YMlNQtjv1pOEZo6jt0l_ZR52A2q_iOeGYo6laFamO3Mg.r2hhKOgzeVAEDZb1lkEzAGX4XdcKXxwCELgfFQM0vN0g.PNG.wsn026/20170119_163342.png)
